@@ -38,7 +38,7 @@
     "push.js": "^1.0.5",
     "react": "^16.2.0",
     "shortid": "^2.2.8",
-    "webpack": "4.28.3"
+    "webpack": "^4.19.1"
   },
   "peerDependencies": {
     "react": "^16.2.0"
